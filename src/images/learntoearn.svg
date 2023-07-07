@@ -1,0 +1,33 @@
+<svg width="178" height="178" viewBox="0 0 178 178" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M92.3537 121C88.0434 117.831 83.154 116.162 78.1769 116.162C73.1998 116.162 68.3103 117.831 64 121V68.8381C68.3103 65.6686 73.1998 64 78.1769 64C83.154 64 88.0434 65.6686 92.3537 68.8381M92.3537 121V68.8381M92.3537 121C95.4752 118.705 98.9004 117.197 102.443 116.539M92.3537 68.8381C96.6641 65.6686 101.553 64 106.531 64C111.508 64 116.397 65.6686 120.707 68.8381V74.2308M121.951 91.4037C120.772 89.902 118.696 88.8584 116.787 88.7927M116.787 88.7927C114.515 88.7137 112.484 90.0225 112.484 93.596C112.484 100.173 121.951 96.8845 121.951 103.461C121.951 107.212 119.431 108.824 116.787 108.703M116.787 88.7927V84.8268M111.623 105.654C112.732 107.539 114.795 108.613 116.787 108.703M116.787 108.703V113.327M116.787 121C126.294 121 134 111.185 134 99.0769C134 86.9688 126.294 77.1538 116.787 77.1538C107.28 77.1538 99.5738 86.9688 99.5738 99.0769C99.5738 111.185 107.28 121 116.787 121Z" stroke="url(#paint0_linear_240_281)" stroke-width="3.69749" stroke-linecap="round" stroke-linejoin="round"/>
+<g filter="url(#filter0_f_240_281)">
+<circle cx="89" cy="89" r="28.5" stroke="url(#paint1_linear_240_281)" stroke-width="7"/>
+</g>
+<g filter="url(#filter1_f_240_281)">
+<circle cx="89" cy="89" r="28.5" stroke="url(#paint2_linear_240_281)" stroke-width="7"/>
+</g>
+<defs>
+<filter id="filter0_f_240_281" x="0" y="0" width="178" height="178" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="28.5" result="effect1_foregroundBlur_240_281"/>
+</filter>
+<filter id="filter1_f_240_281" x="0" y="0" width="178" height="178" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="28.5" result="effect1_foregroundBlur_240_281"/>
+</filter>
+<linearGradient id="paint0_linear_240_281" x1="99" y1="64" x2="99" y2="121" gradientUnits="userSpaceOnUse">
+<stop stop-color="#43DF9B"/>
+<stop offset="1" stop-color="#3DBAB5"/>
+</linearGradient>
+<linearGradient id="paint1_linear_240_281" x1="89" y1="64" x2="89" y2="114" gradientUnits="userSpaceOnUse">
+<stop stop-color="#43DF9B"/>
+<stop offset="1" stop-color="#3DBAB5"/>
+</linearGradient>
+<linearGradient id="paint2_linear_240_281" x1="89" y1="64" x2="89" y2="114" gradientUnits="userSpaceOnUse">
+<stop stop-color="#43DF9B"/>
+<stop offset="1" stop-color="#3DBAB5"/>
+</linearGradient>
+</defs>
+</svg>
